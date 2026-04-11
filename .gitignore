@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+
+# Data and Backups (DO NOT PUSH TO GITHUB)
+database.json
+test-data.json
+* Backup/
+Backups/
